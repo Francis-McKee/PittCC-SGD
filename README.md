@@ -6,6 +6,6 @@ This is a repo for the files from my classes for the SGD Programming and SGD Art
 ## Class List
 
 1. SGD-116: Graphic Design Tools
-* This course introduces the development of iOS applications and Apple applications using Swift programming language. Emphasis is placed on syntax, object-oriented principles, memory management, and functional concepts of Swift programming. Upon completion, students should be able to develop fully functional iOS and Apple applications using Swift programming language.
 * Textbook - Adobe Photoshop CC: Classroom in a Book 2019 Release
 2. CSC-118: Swift Programming I
+* This course introduces the development of iOS applications and Apple applications using Swift programming language. Emphasis is placed on syntax, object-oriented principles, memory management, and functional concepts of Swift programming. Upon completion, students should be able to develop fully functional iOS and Apple applications using Swift programming language.
