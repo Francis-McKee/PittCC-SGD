@@ -5,6 +5,6 @@ This is a repo for the files from my classes for the SGD Programming and SGD Art
 
 ## Class List
 
-1. SGD-116: Graphic Design Tools. 
+1. SGD-116: Graphic Design Tools 
   * Textbook - Adobe Photoshop CC: Classroom in a Book 2019 Release
 2. CSC-118: Swift Programming I
