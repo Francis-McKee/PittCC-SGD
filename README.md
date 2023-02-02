@@ -11,11 +11,11 @@ This is a repo for the files from my classes for the SGD Programming and SGD Art
 
 2. CSC-118: [Swift Programming I](https://github.com/Francis-McKee/PittCC-SGD/tree/main/Swift%20Programming%20I)
 * COURSE DESCRIPTION: This course introduces the development of iOS applications and Apple applications using Swift programming language. Emphasis is placed on syntax, object-oriented principles, memory management, and functional concepts of Swift programming. Upon completion, students should be able to develop fully functional iOS and Apple applications using Swift programming language.
-* TEXTBOOK: Develop in Swift Fundamentals: Getting Started with App Development (Xcode 12 Version)
+* E-BOOK: Develop in Swift Fundamentals: Getting Started with App Development (Xcode 12 Version)
 
 3. CSC 218: [Swift Programming II](https://github.com/Francis-McKee/PittCC-SGD/tree/main/Swift%20Programming%20II)
 * COURSE DESCRIPTION: This course introduces advanced iOS application development using the Swift programming language. Emphasis is placed on navigation, data manipulation, web services, prototyping, debugging, and project planning. Upon completion, students should be able to develop advanced multifunctional iOS and Apple applications using the Swift programming language.
-* TEXTBOOK: Develop in Swift Fundamentals: Getting Started with App Development (Xcode 12 Version)
+* E-BOOK: Develop in Swift Fundamentals: Getting Started with App Development (Xcode 12 Version)
 
 4. SGD-113: [SGD Programming I](https://github.com/Francis-McKee/PittCC-SGD/tree/main/SGD%20Programming%20I)
 * COURSE DESCRIPTION: This course introduces the fundamentals of programming languages and tools employed in simulation and game development. Emphasis is placed on programming concepts used to create simulations and games. Upon completion, students should be able to program simple games and/or simulations.
