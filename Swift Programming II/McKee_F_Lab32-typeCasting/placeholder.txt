@@ -1,0 +1,1 @@
+This is a temp placeholder until I have 2 or more folders in this parent folder, else it will skip the folder and immediately open the app exercise folder. This is purely to organize my files.
