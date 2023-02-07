@@ -1,7 +1,7 @@
 # PittCC-SGD
-Simulation and Game Design Programming and Art Certificates
+Simulation and Game Design Programming Certificate
 
-This is a repo for the files from my classes for the SGD Programming and SGD Art certificates (2) at Pitt Community College, located in Winterville, NC. I figured it would be a good thing to create so that job recruiters/ hiring managers could see exactly what was taught and what I learned at PittCC. Unfortunately I only thought of creating this repo after taking the first semester of classes for the two certificates, but I did my best to add as many files as I still had saved on my personal computer for each class. I also listed the classes in the specific order that I took them because many were prerequisites and needed to be taken in this order.
+This is a repo for the files from my classes for the SGD Programming certificate at Pitt Community College, located in Winterville, NC. I also added other classes that I chose to take that did not count for the certificate. I figured it would be a good thing to create so that job recruiters/ hiring managers could see exactly what was taught and what I learned at PittCC. Unfortunately I only thought of creating this repo after taking the first semester of classes for the two certificates, but I did my best to add as many files as I still had saved on my personal computer for each class. I also listed the classes in the specific order that I took them because many were prerequisites and needed to be taken in this order.
 
 ## Class List
 
