@@ -1,0 +1,1 @@
+VarsTypesMethods needs LearningCurve.cs script
