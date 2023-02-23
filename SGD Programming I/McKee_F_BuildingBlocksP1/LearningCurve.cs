@@ -19,14 +19,13 @@ public class LearningCurve : MonoBehaviour
         outputText.text += (CurrentAge + 1).ToString() + "\n";
 
         ComputeAge();
-
-        void ComputeAge()
+    }
+    
+     void ComputeAge()
         {
             Debug.Log(CurrentAge + AddedAge);
             outputText.text += (CurrentAge + AddedAge);
         }
-
-    }
 
     // Update is called once per frame
     void Update()
