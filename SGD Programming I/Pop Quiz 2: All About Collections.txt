@@ -1,0 +1,12 @@
+1. What is an element in an array or list?
+Elements are individual values of data that are grouped in arrays, dictionaries, and lists. 
+
+2. What is the index number of the first element in an array or list?
+The index number of the first element in an array or list is zero (zero-indexed).
+
+3. Can a single array or list store different types of data?
+No, a single array or list can not contain different types of data, as when you define the list you declare an element type, limiting the element data to only one type.
+
+4. How can you add more elements to an array to make room for more data?
+You can not add more elements to an array after it is initially defined; you would have to use a list instead if you wanted to add more elements as they are flexible and can be modified. 
+
